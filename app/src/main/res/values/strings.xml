@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Blood Share</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="con_fb">CONNECT WITH FACEBOOK</string>
+    <string name="or">OR</string>
+    <string name="not_have">doesn\'t have account ?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="personal">Personal</string>
+    <string name="organization">Organization</string>
+    <string name="home_address">Home Adress</string>
+    <string name="default_location">Default Location</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="reshus">Reshus</string>
+    <string name="job">Job</string>
+    <string name="agree">Agree with Terms and Conditions</string>
+    <string name="almost">Almost There</string>
+    <string name="desc">Thank you for registering with us. One more step, you need to check your email to active your account</string>
+    <string name="verify">VERIFY</string>
+    <string name="verifikasi">Verify your Account</string>
+    <string name="send">We have send verification code to your email</string>
+    <string name="code">enter verification code here...</string>
+    <string name="send_btn">SEND</string>
+    <string name="resend">Resend</string>
+    <string name="not_resend">doesn\'t get the code?</string>
+    <string name="agun_wiguna">Agun Wiguna</string>
+    <string name="my_blood">Blood Type : B</string>
+    <string-array name="blood_category">
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+    </string-array>
+</resources>
